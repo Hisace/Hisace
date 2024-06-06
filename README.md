@@ -19,9 +19,5 @@
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=hisace&show_icons=true&theme=gruvbox)
 /!-->
-#
-
-### 📊 Stats
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Hisace&theme=gruvbox&border_radius=4.5)
 
